@@ -128,7 +128,9 @@ npm install
 
 ## 📌 License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+This project is open-source.
+However, please note that the original source code was not developed by me, and the credit belongs to the unknown original developers.
+My version includes modifications and improvements.
 
 ---
 
