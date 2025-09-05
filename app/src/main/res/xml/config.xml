@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.zafar.ludogame2022" version="1.0.0">
+    <name>LUDO Game 2022</name>
+    <description>
+        best simple and Lite game.
+    </description>
+    <author email="sufyan.pk444@gmail.com" href="https://onlineshoppingdealofficial.blogspot.com/p/ludo-game-2022-app.html">
+        Gradle Team
+    </author>
+    <preference name="android-minSdkVersion" value="19" />
+    <preference name="android-targetSdkVersion" value="29" />
+    <preference name="Fullscreen" value="false" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="market:*" />
+    <content src="index.html" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="SplashScreenDelay" value="20000" />
+    <preference name="loadUrlTimeoutValue" value="700000" />
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="AdMob">
+        <param name="android-package" value="org.apache.cordova.admob.AdMob" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Notification">
+        <param name="android-package" value="org.apache.cordova.dialogs.Notification" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Base64SaveImage">
+        <param name="android-package" value="org.apache.cordova.saveImage.Base64SaveImage" />
+    </feature>
+    <feature name="FirebaseAnalytics">
+        <param name="android-package" value="org.apache.cordova.firebase.FirebaseAnalyticsPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Exit">
+        <param name="android-package" value="org.apache.cordova.exit.Exit" />
+    </feature>
+</widget>
