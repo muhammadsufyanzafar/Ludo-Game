@@ -27,7 +27,7 @@ I plan to **continue improving this game** in the future by adding new features,
 ## 📸 Screenshots
 | Home | Gameplay | Game Over |
 |------|-----------|-----------|
-| ![S 1]() | ![S 2]() | ![S 3]() |
+| ![S 1](https://i.postimg.cc/zBYLCh0m/Ludo-1.jpg) | ![S 2](https://i.postimg.cc/T1RpSXzC/Ludo-2.jpg) | ![S 3](https://i.postimg.cc/k4N2f5p2/Ludo-3.jpg) |
 
 ---
 
