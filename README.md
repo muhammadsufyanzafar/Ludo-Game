@@ -2,7 +2,11 @@
 
 Welcome to **Ludo Game**, a digital version of the timeless and most popular board game played by millions worldwide.  
 Roll the dice, race your tokens, and challenge your friends in this fun and engaging multiplayer board game.  
+---
 
+## 🌐 Live Site
+Check out the live preview of the Ludo Game here:
+🔗 [**Huawei AppGallery**](https://appgallery.huawei.com/#/app/C108762671)
 ---
 
 ## ⚠️ Important Note  
