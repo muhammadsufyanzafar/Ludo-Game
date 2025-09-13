@@ -6,7 +6,7 @@ Roll the dice, race your tokens, and challenge your friends in this fun and enga
 
 ## 🌐 Live Site
 Check out the live preview of the Ludo Game here:
-🔗 [**Huawei AppGallery**](https://appgallery.huawei.com/#/app/C108762671)
+🔗 [**Huawei AppGallery**](https://appgallery.huawei.com/#/app/C107066351)
 ---
 
 ## ⚠️ Important Note  
