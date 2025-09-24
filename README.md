@@ -1,6 +1,4 @@
-## 🎲 **Ludo Game - Classic Board Game**
-
----
+## 🎲 Ludo Game - Classic Board Game
 
 Welcome to **Ludo Game**, a digital version of the timeless and most popular board game played by millions worldwide.  
 Roll the dice, race your tokens, and challenge your friends in this fun and engaging multiplayer board game.  
