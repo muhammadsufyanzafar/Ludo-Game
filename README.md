@@ -1,4 +1,4 @@
-# 🎲 **Ludo Game - Classic Board Game**
+## 🎲 **Ludo Game - Classic Board Game**
 
 ---
 
